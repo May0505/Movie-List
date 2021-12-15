@@ -1,0 +1,19 @@
+.heart .far {
+  color: #bebebe;
+}
+
+.heart .far:hover {
+  color: #ea0000;
+}
+
+.heart .fas {
+  color: #ea0000;
+}
+.heart .fas:hover {
+  color: #ff2d2d;
+}
+
+hr {
+  border: 1px solid #e0e0e0;
+  width: 100%;
+}
